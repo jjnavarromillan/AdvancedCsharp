@@ -1,0 +1,11 @@
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp2.1\AdvancedCSharp.csprojAssemblyReference.cache
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp2.1\AdvancedCSharp.csproj.CoreCompileInputs.cache
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp2.1\AdvancedCSharp.AssemblyInfoInputs.cache
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp2.1\AdvancedCSharp.AssemblyInfo.cs
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp2.1\AdvancedCSharp.deps.json
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp2.1\AdvancedCSharp.runtimeconfig.json
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp2.1\AdvancedCSharp.runtimeconfig.dev.json
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp2.1\AdvancedCSharp.dll
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\bin\Debug\netcoreapp2.1\AdvancedCSharp.pdb
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp2.1\AdvancedCSharp.dll
+D:\GIT\Examples\AdvancedCSharp\AdvancedCSharp\AdvancedCSharp\obj\Debug\netcoreapp2.1\AdvancedCSharp.pdb

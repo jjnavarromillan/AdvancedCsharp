@@ -7,8 +7,8 @@ namespace AdvancedCSharp
         static void Main(string[] args)
         {
             MathService mathService = new MathService();
-            mathService.MathPerformed += (sender,e) =>{
-                Console.WriteLine("Calculatio result " + e.Result);
+            mathService.MathPerformed += (result) =>{
+                Console.WriteLine("Calculatio result " + result);
             };
             mathService.Multiply(57.85, 789.76);
         }

@@ -10,7 +10,8 @@ namespace AdvancedCSharp
             mathService.MathPerformed += (result) =>{
                 Console.WriteLine("Calculatio result " + result);
             };
-            mathService.Multiply(57.85, 789.76);
+            mathService.CalculateNumbers(57.85, 789.76,(value1,value2)=> value1 * value2);
+            
         }
     }
     
